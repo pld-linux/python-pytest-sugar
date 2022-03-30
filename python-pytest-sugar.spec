@@ -8,7 +8,7 @@ Summary:	pytest plugin changing default look and feel of pytest
 Summary(pl.UTF-8):	Wtyczka pytesta zmieniająca domyślny wygląd i zachowanie
 Name:		python-pytest-sugar
 Version:	0.9.4
-Release:	3
+Release:	4
 License:	BSD
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/pytest-sugar/
